@@ -1,0 +1,23 @@
+.img-slide{
+    height: 26em;
+    width: 100%;
+}
+img{
+    /* height: 50em; */
+    /* width: 100%; */
+    background-repeat: no-repeat;
+    background-position: center;
+    /* background-attachment: fixed; */
+} 
+img{
+    height: auto;
+}
+.Caption{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: black;
+    /* font-size: 1em; */
+}

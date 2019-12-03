@@ -1,0 +1,13 @@
+.nav{
+    background: none;
+    background-color: #9E9E9E;
+}
+.btn{
+    background-color: lightgrey;
+    border: none;
+    color: black;
+    width: 6em;
+}
+.mr-auto{
+    font-size: 2em;
+}

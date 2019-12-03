@@ -1,0 +1,36 @@
+.InputSection{
+    background-color: #2f2b35;
+    display: flex;
+    padding: 5em;
+    justify-content: center;
+    width: 100%;
+}
+/* .mb-3 .button{
+    border-right: none;
+    background-color: white;
+} */
+.mb-3{
+    margin: 1em;
+    width: 15em;
+}
+#input-group-dropdown-1{
+    width: 2em;
+    border-right: none;
+    background-color: white;
+    border-top: 1px solid #ccc3b2;
+    border-bottom: 1px solid #ccc3b2;
+    border-left: 1px solid #ccc3b2;
+}
+#input-group-dropdown-1:hover{
+    background-color: gray;
+}
+.mr-sm-2{
+    width:13em;
+    margin: 1em;
+}
+#finding{
+    background-color: black;
+    color: #ffff;
+    width:13em;
+    margin: 1em;
+}

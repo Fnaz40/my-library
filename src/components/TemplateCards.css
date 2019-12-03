@@ -1,0 +1,11 @@
+/* .TemplateCards{
+    display: flex;
+    flex-direction: column;
+} */
+.bton{
+    background-color: aliceblue;
+    margin: 7px;
+}
+.bton:hover{
+    color: brown;
+}

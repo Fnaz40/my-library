@@ -1,0 +1,24 @@
+.Contact{
+    background-color: gold;
+    padding: 3em;
+    width: 100%;
+    text-align: center;
+}
+#line{
+    background: #343a40;
+    width: 16em;
+    height: 4px;
+    display: inline-flex;
+}
+.input{
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.input .mb-3{
+    width: 28em;
+}
+.formbtn{
+    background-color: #343a40;
+}
